@@ -2,7 +2,7 @@
 
 - Phone: +52 777 257 0548
 - Email: [mateo.seg.gue@gmail.com](mailto:mateo.seg.gue@gmail.com)
-- Location: Morelos, México
+- Location: Cuernavaca, Mor, Mexico
 - LinkedIn: [mateosegurag](https://linkedin.com/in/mateosegurag)
 - GitHub: [mateo-segura](https://github.com/mateo-segura)
 

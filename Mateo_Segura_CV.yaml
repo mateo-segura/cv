@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.3/schema.json
 cv:
   name: Mateo Segura
-  location: Morelos, México
+  location: Cuernavaca, Mor, Mexico
   email: mateo.seg.gue@gmail.com
   phone: +52 7772570548
   social_networks:

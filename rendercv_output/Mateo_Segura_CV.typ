@@ -465,7 +465,7 @@
 
 // Print connections:
 #let connections-list = (
-  [Morelos, México],
+  [Cuernavaca, Mor, Mexico],
   [#box(original-link("mailto:mateo.seg.gue@gmail.com")[mateo.seg.gue\@gmail.com])],
   [#box(original-link("tel:+52-777-257-0548")[777 257 0548])],
   [#box(original-link("https://linkedin.com/in/mateosegurag")[linkedin.com\/in\/mateosegurag])],
