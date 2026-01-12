@@ -17,7 +17,7 @@ cv:
         start_date: 2023-08
         end_date: 2027-07
         highlights:
-          - 'Key coursework: data structures and algorithms, object oriented programming.'
+          - 'Key coursework: Data Structures and Algorithms, Object-Oriented Programming.'
     projects:
       - name: 'Simple habit tracker (https://github.com/mathewsecure/react-habit-tracker)'
         date:
@@ -28,7 +28,7 @@ cv:
           - Full stack web application for habit tracking and visualization, using React (Vite) and Express.js with an MVC-inspired architecture.
           - Implemented a MySQL database and authentication using JWT.
           - (React, Vite, Express, MySQL, JWT)
-      - name: 'Tanuki Sunset AI agent  (https://github.com/mateo-segura/tanuki-agent)'
+      - name: 'Tanuki Sunset AI agent (https://github.com/mateo-segura/tanuki-agent)'
         date:
         start_date: 2025-11
         end_date: 2025-12
@@ -58,13 +58,13 @@ cv:
       - Researched and drafted information for a published article highlighting a key tourist attraction in Cuernavaca.
       - Conducted an email interview with the Director of the Museo Regional de los Pueblos de Morelos.
     certificates:
-      - AWS Educate Introduction to Cloud 101, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified (SFC)
+      - 'AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified (SFC)'
     skills:
       - label: Languages
-        details: English (intermidiate, B2 British Council English Score certificate in process), Spanish (native)
+        details: English (Intermediate, B2 British Council English Score [expected March 2026]), Spanish (native)
       - label: Basic
-        details: Kotlin, C++, C#, Python, TypeScript, CSS, Git, AWS, Linux
-      - label: Intermidiate
+        details: Kotlin, C++, C#, Python, TypeScript, CSS, Git, AWS, Linux, Arduino, Router & Switch Configuration
+      - label: Intermediate
         details: MySQL, HTML, Node.js, Express.js, React, Unity
       - label: Proficient
         details: JavaScript

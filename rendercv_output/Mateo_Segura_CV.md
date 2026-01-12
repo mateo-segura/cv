@@ -12,7 +12,7 @@
 ## Tecnológico de Monterrey (ITESM), BS in Computer Science and Technology (ITC)
 
 - Aug 2023 – July 2027
-- Key coursework: data structures and algorithms, object oriented programming.
+- Key coursework: Data Structures and Algorithms, Object-Oriented Programming.
 
 # Projects
 
@@ -23,7 +23,7 @@
 - Implemented a MySQL database and authentication using JWT.
 - (React, Vite, Express, MySQL, JWT)
 
-## Tanuki Sunset AI agent  (https://github.com/mateo-segura/tanuki-agent)
+## Tanuki Sunset AI agent (https://github.com/mateo-segura/tanuki-agent)
 
 - Nov 2025 – Dec 2025
 - Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.
@@ -51,11 +51,11 @@
 
 # Certificates
 
-AWS Educate Introduction to Cloud 101, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified (SFC)
+AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified (SFC)
 
 # Skills
 
-- Languages: English (intermidiate, B2 British Council English Score certificate in process), Spanish (native)
-- Basic: Kotlin, C++, C#, Python, TypeScript, CSS, Git, AWS, Linux
-- Intermidiate: MySQL, HTML, Node.js, Express.js, React, Unity
+- Languages: English (Intermediate, B2 British Council English Score [expected March 2026]), Spanish (native)
+- Basic: Kotlin, C++, C#, Python, TypeScript, CSS, Git, AWS, Linux, Arduino, Router & Switch Configuration
+- Intermediate: MySQL, HTML, Node.js, Express.js, React, Unity
 - Proficient: JavaScript

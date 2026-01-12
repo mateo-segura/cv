@@ -490,7 +490,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Key coursework: data structures and algorithms, object oriented programming.],)
+    #v(design-highlights-top-margin);#highlights([Key coursework: Data Structures and Algorithms, Object-Oriented Programming.],)
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -520,7 +520,7 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Tanuki Sunset AI agent  \(https:\/\/github.com\/mateo-segura\/tanuki-agent\)] 
+    #strong[Tanuki Sunset AI agent \(https:\/\/github.com\/mateo-segura\/tanuki-agent\)] 
   ],
   right-content: [
     Nov 2025 – Dec 2025
@@ -572,7 +572,7 @@
 
 
 #one-col-entry(
-  content: [AWS Educate Introduction to Cloud 101, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified \(SFC\)]
+  content: [AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified \(SFC\)]
 )
 
 
@@ -580,15 +580,15 @@
 
 
 #one-col-entry(
-  content: [#strong[Languages:] English \(intermidiate, B2 British Council English Score certificate in process\), Spanish \(native\)]
+  content: [#strong[Languages:] English \(Intermediate, B2 British Council English Score \[expected March 2026\]\), Spanish \(native\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Basic:] Kotlin, C++, C\#, Python, TypeScript, CSS, Git, AWS, Linux]
+  content: [#strong[Basic:] Kotlin, C++, C\#, Python, TypeScript, CSS, Git, AWS, Linux, Arduino, Router & Switch Configuration]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Intermidiate:] MySQL, HTML, Node.js, Express.js, React, Unity]
+  content: [#strong[Intermediate:] MySQL, HTML, Node.js, Express.js, React, Unity]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
