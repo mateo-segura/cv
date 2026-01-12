@@ -465,8 +465,8 @@
 
 // Print connections:
 #let connections-list = (
-  [Cuernavaca, Morelos, México],
-  [#box(original-link("mailto:mate.seg.gue@gmail.com")[mate.seg.gue\@gmail.com])],
+  [Morelos, México],
+  [#box(original-link("mailto:mateo.seg.gue@gmail.com")[mateo.seg.gue\@gmail.com])],
   [#box(original-link("tel:+52-777-257-0548")[777 257 0548])],
   [#box(original-link("https://linkedin.com/in/mateosegurag")[linkedin.com\/in\/mateosegurag])],
   [#box(original-link("https://github.com/mateo-segura")[github.com\/mateo-segura])],
@@ -513,7 +513,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Full stack web application for habit tracking and visualization, using React \(Vite\) and Express.js with an MVC-inspired architecture.],[Implemented a MySQL database and secure authentication using JWT.],[\(React, Vite, Express, MySQL, JWT\)],)
+    #v(design-highlights-top-margin);#highlights([Full stack web application for habit tracking and visualization, using React \(Vite\) and Express.js with an MVC-inspired architecture.],[Implemented a MySQL database and authentication using JWT.],[\(React, Vite, Express, MySQL, JWT\)],)
   ],
 )
 
@@ -528,7 +528,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured the sensory perception with sensors such as Ray Perception Sensor, allowing the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions analyzed in TensorBoard, achieving the model with the highest success rate and efficiency in the team.],[Collaborated on the technical integration of the model with respawn systems to improve the end-user experience.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement Learning, Data Visualization\)],)
+    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured the sensory perception with sensors such as Ray Perception Sensor, allowing the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions analyzed in TensorBoard, achieving the model with the highest success rate and efficiency in the team.],[Collaborated on the technical integration of the model with respawn systems to improve the end user experience.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement learning, Data visualization\)],)
   ],
 )
 
@@ -543,7 +543,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras, intended for technical support management using Kotlin and Jetpack Compose.],[Integrated security using JWT tokens with role-based authentication \(Admin, Technician, Help Desk\) and consumption of a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on the UI\/UX design in Figma, architectural documentation through sequence diagrams, and error mitigation by designing a testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
+    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras, intended for technical support management using Kotlin and Jetpack Compose.],[Integrated security using JWT tokens with role based authentication \(Admin, Technician, Help desk\) and consumption of a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on the UI\/UX design in Figma, architectural documentation through sequence diagrams, and error mitigation by designing a testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
   ],
 )
 
@@ -562,7 +562,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Collaborated within a team of six volunteers under editorial mentorship, following a structured activity manual to generate content for Tus Buenas Noticias.],[Researched and drafted information for a published article highlighting a key tourist attraction in Cuernavaca.],[Conducted an email interview with the Director of the Museo Regional de los Pueblos de Morelos, focusing on their professional trajectory and institutional challenges to foster social engagement.],)
+    #v(design-highlights-top-margin);#highlights([Collaborated within a team of six volunteers under editorial mentorship, following a structured activity manual to generate content for Tus Buenas Noticias.],[Researched and drafted information for a published article highlighting a key tourist attraction in Cuernavaca.],[Conducted an email interview with the Director of the Museo Regional de los Pueblos de Morelos.],)
   ],
 )
 
@@ -584,11 +584,15 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Basic:] Kotlin, C++, C\#, Python, Git, AWS, CSS, TypeScript]
+  content: [#strong[Basic:] Kotlin, C++, C\#, Python, TypeScript, CSS, Git, AWS, Linux]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Intermidiate:] JavaScript, Express.js, React, MySQL, HTML, Unity]
+  content: [#strong[Intermidiate:] MySQL, HTML, Node.js, Express.js, React, Unity]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Proficient:] JavaScript]
 )
 
 
