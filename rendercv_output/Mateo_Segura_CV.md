@@ -18,7 +18,7 @@
 
 ## Simple habit tracker (https://github.com/mathewsecure/react-habit-tracker)
 
-- July 2024 – present
+- July 2025 – present
 - Full stack web application for habit tracking and visualization, using React (Vite) and Express.js with an MVC-inspired architecture.
 - Implemented a MySQL database and authentication using JWT.
 - (React, Vite, Express, MySQL, JWT)

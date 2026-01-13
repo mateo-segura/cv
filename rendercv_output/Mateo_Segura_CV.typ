@@ -508,7 +508,7 @@
     #strong[Simple habit tracker \(https:\/\/github.com\/mathewsecure\/react-habit-tracker\)] 
   ],
   right-content: [
-    July 2024 – present
+    July 2025 – present
   ],
 )
 #one-col-entry(
