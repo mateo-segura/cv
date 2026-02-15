@@ -490,7 +490,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Key coursework: Data Structures and Algorithms, Object-Oriented Programming.],)
+    
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -513,7 +513,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Full stack web application for habit tracking and visualization, using React \(Vite\) and Express.js with an MVC-inspired architecture.],[Implemented a MySQL database and authentication using JWT.],[\(React, Vite, Express, MySQL, JWT\)],)
+    #v(design-highlights-top-margin);#highlights([Building a full stack habit tracking app with React \(Vite\) and Express.js, following an MVC-inspired architecture to ensure clean separation of concerns and maintainability.],[Designed a MySQL database and secured required endpoints with JWT-based authentication, reducing unauthorized access vectors.],[\(React, Express.js, MySQL, JWT\)],)
   ],
 )
 
@@ -528,7 +528,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured the sensory perception with sensors such as Ray Perception Sensor, allowing the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions analyzed in TensorBoard, achieving the model with the highest success rate and efficiency in the team.],[Collaborated on the technical integration of the model with respawn systems to improve the end user experience.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement learning, Data visualization\)],)
+    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured sensory input using Ray Perception Sensors, enabling the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions, leveraging TensorBoard for analysis, achieving the highest success rate and efficiency among all team models.],[Collaborated on the technical integration of the model with respawn systems to improve the end-user experience.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement learning, Data visualization\)],)
   ],
 )
 
@@ -543,7 +543,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras, intended for technical support management using Kotlin and Jetpack Compose.],[Integrated security using JWT tokens with role based authentication \(Admin, Technician, Help desk\) and consumption of a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on the UI\/UX design in Figma, architectural documentation through sequence diagrams, and error mitigation by designing a testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
+    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras using Kotlin and Jetpack Compose, designed for technical support management.],[Integrated JWT-based authentication with role-based access control \(Admin, Technician, Help Desk\) and consumed a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on UI\/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by designing a comprehensive testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
   ],
 )
 
@@ -562,7 +562,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Collaborated within a team of six volunteers under editorial mentorship, following a structured activity manual to generate content for Tus Buenas Noticias.],[Researched and drafted information for a published article highlighting a key tourist attraction in Cuernavaca.],[Conducted an email interview with the Director of the Museo Regional de los Pueblos de Morelos.],)
+    #v(design-highlights-top-margin);#highlights([Collaborated within a team of six volunteers under editorial mentorship, following a structured activity manual to generate content for Tus Buenas Noticias.],[Researched and wrote a published article highlighting a key tourist attraction in Cuernavaca.],[Conducted an email interview with the Director of the Museo Regional de los Pueblos de Morelos.],)
   ],
 )
 
@@ -580,19 +580,19 @@
 
 
 #one-col-entry(
-  content: [#strong[Languages:] English \(Intermediate, B2 British Council English Score \[expected March 2026\]\), Spanish \(native\)]
+  content: [#strong[Languages:] JavaScript, TypeScript, Python, C\#, C++, Kotlin, HTML, CSS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Basic:] Kotlin, C++, C\#, Python, TypeScript, CSS, Git, AWS, Linux, Arduino, Router & Switch Configuration]
+  content: [#strong[Frameworks & Libraries:] React, Node.js, Express.js]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Intermediate:] MySQL, HTML, Node.js, Express.js, React, Unity]
+  content: [#strong[Tools & Platforms:] Git, Docker, AWS, MySQL, Linux, Unity, Arduino, ESP32, Copilot]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Proficient:] JavaScript]
+  content: [#strong[Networking:] Router & Switch Configuration]
 )
 
 
