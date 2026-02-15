@@ -27,7 +27,7 @@
 - Nov 2025 – Dec 2025
 - Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.
 - Configured sensory input using Ray Perception Sensors, enabling the agent to process its environment and avoid obstacles in real time.
-- Optimized hyperparameters and reward functions, leveraging TensorBoard for analysis, achieving the highest success rate and efficiency among all team models.
+- Optimized hyperparameters and reward functions, leveraging TensorBoard for analysis, achieving the highest success rate and efficiency among all models in my team.
 - Collaborated on the technical integration of the model with respawn systems to improve the end-user experience.
 - (Unity, ML-Agents, TensorFlow, C#, Reinforcement learning, Data visualization)
 
@@ -54,7 +54,7 @@ AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cl
 
 # Skills
 
-- Languages: JavaScript, TypeScript, Python, C#, C++, Kotlin, HTML, CSS
-- Frameworks & Libraries: React, Node.js, Express.js
+- Languages: JavaScript, TypeScript, Python, C#, C++, Kotlin, XQuery, HTML, CSS
+- Frameworks & Libraries: React, Node.js, Express.js, NestJS
 - Tools & Platforms: Git, Docker, AWS, MySQL, Linux, Unity, Arduino, ESP32, Copilot
 - Networking: Router & Switch Configuration

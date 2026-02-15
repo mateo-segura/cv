@@ -528,7 +528,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured sensory input using Ray Perception Sensors, enabling the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions, leveraging TensorBoard for analysis, achieving the highest success rate and efficiency among all team models.],[Collaborated on the technical integration of the model with respawn systems to improve the end-user experience.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement learning, Data visualization\)],)
+    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured sensory input using Ray Perception Sensors, enabling the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions, leveraging TensorBoard for analysis, achieving the highest success rate and efficiency among all models in my team.],[Collaborated on the technical integration of the model with respawn systems to improve the end-user experience.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement learning, Data visualization\)],)
   ],
 )
 
@@ -580,11 +580,11 @@
 
 
 #one-col-entry(
-  content: [#strong[Languages:] JavaScript, TypeScript, Python, C\#, C++, Kotlin, HTML, CSS]
+  content: [#strong[Languages:] JavaScript, TypeScript, Python, C\#, C++, Kotlin, XQuery, HTML, CSS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Frameworks & Libraries:] React, Node.js, Express.js]
+  content: [#strong[Frameworks & Libraries:] React, Node.js, Express.js, NestJS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
