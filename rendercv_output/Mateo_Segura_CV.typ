@@ -543,7 +543,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras using Kotlin and Jetpack Compose, designed for technical support management.],[Integrated JWT-based authentication with role-based access control \(Admin, Technician, Help Desk\) and consumed a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on UI\/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by colaborating in the design of a testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
+    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras using Kotlin and Jetpack Compose, designed for technical support management.],[Integrated JWT-based authentication with role-based access control \(Admin, Technician, Help Desk\) and consumed a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on UI\/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by collaborating in the design of a testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
   ],
 )
 
@@ -580,7 +580,7 @@
 
 
 #one-col-entry(
-  content: [#strong[Languages:] JavaScript, TypeScript, Python, C\#, C++, Kotlin, XPath, HTML, CSS]
+  content: [#strong[Languages:] JavaScript, TypeScript, Python, C\#, C++, Kotlin, MySQL, XPath, HTML, CSS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -588,7 +588,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Tools & Platforms:] Git, Docker, AWS, MySQL, Linux, Unity, Arduino, ESP32, Copilot]
+  content: [#strong[Tools & Platforms:] Git, Docker, AWS, Linux, Unity, Arduino, ESP32, Copilot]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

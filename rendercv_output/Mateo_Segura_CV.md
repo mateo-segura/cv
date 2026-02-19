@@ -35,7 +35,7 @@
 - Aug 2025 – Oct 2025
 - Collaborated on the development of a native Android application for Mac Computadoras using Kotlin and Jetpack Compose, designed for technical support management.
 - Integrated JWT-based authentication with role-based access control (Admin, Technician, Help Desk) and consumed a REST API for various components, such as the ticket module, using the Volley library.
-- Collaborated on UI/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by colaborating in the design of a testing plan.
+- Collaborated on UI/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by collaborating in the design of a testing plan.
 - (Kotlin, Jetpack Compose, JWT, Volley, Figma, Git)
 
 # Volunteer
@@ -53,7 +53,7 @@ AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cl
 
 # Skills
 
-- Languages: JavaScript, TypeScript, Python, C#, C++, Kotlin, XPath, HTML, CSS
+- Languages: JavaScript, TypeScript, Python, C#, C++, Kotlin, MySQL, XPath, HTML, CSS
 - Frameworks & Libraries: React, Node.js, Express.js, NestJS
-- Tools & Platforms: Git, Docker, AWS, MySQL, Linux, Unity, Arduino, ESP32, Copilot
+- Tools & Platforms: Git, Docker, AWS, Linux, Unity, Arduino, ESP32, Copilot
 - Networking: Router & Switch Configuration

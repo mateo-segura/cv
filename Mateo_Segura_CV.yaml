@@ -44,7 +44,7 @@ cv:
         highlights:
           - Collaborated on the development of a native Android application for Mac Computadoras using Kotlin and Jetpack Compose, designed for technical support management.
           - Integrated JWT-based authentication with role-based access control (Admin, Technician, Help Desk) and consumed a REST API for various components, such as the ticket module, using the Volley library.
-          - Collaborated on UI/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by colaborating in the design of a testing plan.
+          - Collaborated on UI/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by collaborating in the design of a testing plan.
           - (Kotlin, Jetpack Compose, JWT, Volley, Figma, Git)
     volunteer:
       - name: 'Collaborative content production (https://www.tusbuenasnoticias.com)'
@@ -58,11 +58,11 @@ cv:
       - 'AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified (SFC)'
     skills:
       - label: Languages
-        details: JavaScript, TypeScript, Python, C#, C++, Kotlin, XPath, HTML, CSS
+        details: JavaScript, TypeScript, Python, C#, C++, Kotlin, MySQL, XPath, HTML, CSS
       - label: Frameworks & Libraries
         details: React, Node.js, Express.js, NestJS
       - label: Tools & Platforms
-        details: Git, Docker, AWS, MySQL, Linux, Unity, Arduino, ESP32, Copilot
+        details: Git, Docker, AWS, Linux, Unity, Arduino, ESP32, Copilot
       - label: Networking
         details: Router & Switch Configuration
 
