@@ -528,7 +528,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured sensory input using Ray Perception Sensors, enabling the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions, leveraging TensorBoard for analysis, achieving the highest success rate and efficiency among all models in my team.],[Collaborated on the technical integration of the model with respawn systems to improve the end-user experience.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement learning, Data visualization\)],)
+    #v(design-highlights-top-margin);#highlights([Developed a Deep Reinforcement Learning agent with Unity ML-Agents that functions as a real-time guide for players in a customized version of Tanuki Sunset.],[Configured sensory input using Ray Perception Sensors, enabling the agent to process its environment and avoid obstacles in real time.],[Optimized hyperparameters and reward functions, leveraging TensorBoard for analysis, achieving the highest success rate and efficiency among all models in my team.],[\(Unity, ML-Agents, TensorFlow, C\#, Reinforcement learning, Data visualization\)],)
   ],
 )
 
@@ -543,7 +543,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras using Kotlin and Jetpack Compose, designed for technical support management.],[Integrated JWT-based authentication with role-based access control \(Admin, Technician, Help Desk\) and consumed a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on UI\/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by designing a comprehensive testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
+    #v(design-highlights-top-margin);#highlights([Collaborated on the development of a native Android application for Mac Computadoras using Kotlin and Jetpack Compose, designed for technical support management.],[Integrated JWT-based authentication with role-based access control \(Admin, Technician, Help Desk\) and consumed a REST API for various components, such as the ticket module, using the Volley library.],[Collaborated on UI\/UX design in Figma, documented architecture through sequence diagrams, and mitigated errors by colaborating in the design of a testing plan.],[\(Kotlin, Jetpack Compose, JWT, Volley, Figma, Git\)],)
   ],
 )
 
