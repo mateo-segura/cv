@@ -58,7 +58,7 @@ cv:
       - 'AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Scrum Fundamentals Certified (SFC)'
     skills:
       - label: Languages
-        details: JavaScript, TypeScript, Python, C#, C++, Kotlin, XQuery, HTML, CSS
+        details: JavaScript, TypeScript, Python, C#, C++, Kotlin, XPath, HTML, CSS
       - label: Frameworks & Libraries
         details: React, Node.js, Express.js, NestJS
       - label: Tools & Platforms

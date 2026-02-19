@@ -580,7 +580,7 @@
 
 
 #one-col-entry(
-  content: [#strong[Languages:] JavaScript, TypeScript, Python, C\#, C++, Kotlin, XQuery, HTML, CSS]
+  content: [#strong[Languages:] JavaScript, TypeScript, Python, C\#, C++, Kotlin, XPath, HTML, CSS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

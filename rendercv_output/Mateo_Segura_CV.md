@@ -53,7 +53,7 @@ AWS Educate Introduction to Cloud 101, CCNA: Introduction to Networks, Oracle Cl
 
 # Skills
 
-- Languages: JavaScript, TypeScript, Python, C#, C++, Kotlin, XQuery, HTML, CSS
+- Languages: JavaScript, TypeScript, Python, C#, C++, Kotlin, XPath, HTML, CSS
 - Frameworks & Libraries: React, Node.js, Express.js, NestJS
 - Tools & Platforms: Git, Docker, AWS, MySQL, Linux, Unity, Arduino, ESP32, Copilot
 - Networking: Router & Switch Configuration
